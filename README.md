@@ -27,7 +27,7 @@ https://developer.android.com/studio/debug/dev-options#enable
 
 ## Known Limitations
 
- * Ansight is currently unsupported on Windows. If you would like to see this priories, [please visit the product roadmap] and give
+ * Ansight is currently unsupported on Windows. If you would like to see this priories, [please visit the product roadmap](https://github.com/Ansight/ansight.feedback/discussions/5) and give the item a thumbs up to indicate your interest.
  * Ansight is currently unsupported on Apple Silicon machines. It uses OpenCV for video streaming and replaying and support is not yet ready in OpenCVSharp for M1 Macs. This is actively being worked on and is being targeted for late 2021/early 2022.
  * When a devices display turns off, the video stream may not reconnected successfully when it is unlocked. To work around this:
    * Increase the automatic lock time of your device.
