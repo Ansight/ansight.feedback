@@ -14,7 +14,7 @@ Documentation is currently under construction at: https://docs.ansight.io
 
 ## Installation And Setup
 
- 1. Download the attached Ansight.Studio.Mac package.
+ 1. Download the [current release of Ansight.Studio.Mac](https://github.com/Ansight/ansight.releases/releases/latest).
  2. Locate the package in your downloads.
  3. Right click on the package and select `Open`.
    a. You may receive a warning that Ansight is from an unknown developer. Please continue to run the installer.
@@ -31,5 +31,5 @@ https://developer.android.com/studio/debug/dev-options#enable
  * Ansight is currently unsupported on Apple Silicon machines. It uses OpenCV for video streaming and replaying and support is not yet ready in OpenCVSharp for M1 Macs. This is actively being worked on and is being targeted for late 2021/early 2022.
  * When a devices display turns off, the video stream may not reconnected successfully when it is unlocked. To work around this:
    * Increase the automatic lock time of your device.
-   * Disconnect and reconnect
+   * Disconnect and reconnect your device while its unlocked.
  * Ansight is **not supported** on Android devices lower than API level 21.
