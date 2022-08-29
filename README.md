@@ -1,4 +1,4 @@
-# Powerful Insights For Android App Testing
+# Powerful Android App Testing Insights
 
 Use Ansight to record, replay and analyse sessions for an Android device.
 
